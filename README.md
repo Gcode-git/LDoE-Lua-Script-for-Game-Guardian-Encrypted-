@@ -3,7 +3,9 @@ Description: This repository contains an encrypted Lua script for Last Day on Ea
 Files:
 
 README.md: Provides instructions and information about the encrypted Lua script.
+
 (GC)LastDayOnEarth.lua: The encrypted Lua script file for Last Day on Earth game using Game Guardian.
+
 Instructions:
 
 1. Download the repository file to your local machine.
