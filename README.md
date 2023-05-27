@@ -1,0 +1,1 @@
+# Last-Day-on-Earth-Lua-Script-Encrypted-
