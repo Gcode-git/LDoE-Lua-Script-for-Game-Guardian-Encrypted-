@@ -4,7 +4,7 @@ Files:
 
 README.md: Provides instructions and information about the encrypted Lua script.
 
-(GC)LastDayOnEarth.lua: The encrypted Lua script file for Last Day on Earth game using Game Guardian.
+(GC)LastDayonEarth.lua: The encrypted Lua script file for Last Day on Earth game using Game Guardian.
 
 Instructions:
 
